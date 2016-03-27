@@ -1,4 +1,4 @@
-bibliometrics_clean
+Bibliometrics Research Grouping Scripts
 ===================
 
 Summer 2013 bibliometrics research code (clean)
